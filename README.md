@@ -4,5 +4,5 @@ The repository contains code and dataset used for the trigger-level tau classifi
 ## Environment
 * Pre-installed Vivado
 * Pre-installed ModelSim
-* Python environment using hls4ml-tutorial [https://github.com/fastmachinelearning/hls4ml-tutorial/blob/master/environment.yml](environment)
+* Python environment using hls4ml-tutorial [environment)](https://github.com/fastmachinelearning/hls4ml-tutorial/blob/master/environment.yml)
 
